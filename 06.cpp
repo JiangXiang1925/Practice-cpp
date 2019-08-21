@@ -2,7 +2,7 @@ struct ListNode
 {
     int m_nValue;
     ListNode* m_pNext;
-}
+};
 
 //****************1****************
 void PrintListReversing_Iteratively(ListNode* pHead)
